@@ -1,0 +1,39 @@
+html {
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.myWork {
+    display: grid;
+}
+.gridContainer img {
+    width: 250px;
+    height: 200px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.mySkills {
+    margin-left: 80px;
+}
+.mySkills p {
+    display: block;
+    margin-right: 600px;
+}
+.myWork h1 {
+    margin-left: 80px;
+}
+.AbilityOnline {
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+.Healink {
+    display: grid;
+    grid-template-columns: 36% 64%;
+}
+.AbilityOnline p {
+    display: block;
+    margin-right: 600px;
+}
+.Healink p {
+    display: block;
+    margin-left: 80px;
+}
