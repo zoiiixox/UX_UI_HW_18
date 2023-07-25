@@ -14,6 +14,9 @@ html {
 .mySkills {
     margin-left: 80px;
 }
+.contact {
+    margin-left: 80px;
+}
 .mySkills p {
     display: block;
     margin-right: 600px;
@@ -36,4 +39,39 @@ html {
 .Healink p {
     display: block;
     margin-left: 80px;
+}
+.gridContainer button {
+    margin-left: 800px;
+    background-color: rgb(0, 0, 0);
+    color:white;
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    min-height: 5px;
+    min-width: 80px;
+}
+.inline-block {
+    display:inline-block;
+    vertical-align: top;
+}
+.navigation ul {
+    list-style-type: none;
+    width: 580px;
+    height: 10px;
+    background: white;
+    margin: 1;
+    padding-left: 1%;
+    text-align: center;
+}
+.navigation li{
+    margin-right: 10px;
+}
+.navigation a {
+    text-decoration: none;
+    color: black; 
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.navigation a:hover {
+    background-color: #d3d3d3;
 }
