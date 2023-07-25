@@ -5,6 +5,14 @@ html {
 .myWork {
     display: grid;
 }
+.flexContainer {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.linkedin p {
+    margin-left: 150px;
+}
 .gridContainer img {
     width: 250px;
     height: 200px;
